@@ -7,8 +7,8 @@ Listas de ventas<br>
 A = [20, 50, 30, 10, 10]<br>
 B = [20, 70, 10, 10, 10]<br>
 
-Cree un bucle que calcule e imprima
-1.	La media de las lista A y B
+Utilizando las funciones de Numpy imprima:
+1.	La media de las listas A y B
 2.	La desviación estándar de la listas A y B
 3.	¿Qué conclusión puede sacar?<br>
 
